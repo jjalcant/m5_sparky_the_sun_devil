@@ -91,11 +91,11 @@
     padding: 4px;
   }
   
-  p, quote {
+  p, q {
     color: #444;
   }
   
-  quote {
+  q {
     font-style: italic;
   }
   
@@ -121,10 +121,7 @@
   footer a {
     color: #fff;
     display: inline-block;
-    padding-top: 8px;
-    padding-right: 16px;
-    padding-bottom: 8px;
-    padding-left: 16px;
+    padding: 8px 16px;
     font-weight: normal;
   }
   
